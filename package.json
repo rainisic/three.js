@@ -1,0 +1,20 @@
+{
+  "family": "rainisic",
+  "name": "threejs",
+  "version": "r64",
+  "description": "Three.js",
+  "homepage": "http://threejs.org/",
+  "keywords": ["3d", "three", "threejs"],
+  "author": "Luo Chuan <rainisic@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rainisic/threejs.git"
+  },
+  "main": "./build/three.js",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://threejs.org/"
+    }
+  ]
+}
